@@ -1,3 +1,5 @@
+# this has been archived due to a recent redesign of ALVR which itself manages decoupling itself from SteamVR's main processes a lot better.
+
 # ALVRestart
 
 restart all components of SteamVR and ALVR in one go!
